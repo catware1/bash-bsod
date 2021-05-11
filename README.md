@@ -1,2 +1,2 @@
 # bash-bsod
-BSoD in linux :DDD
+BSoD in linux XD
